@@ -1,0 +1,2 @@
+# chatgpt_api_chatbot_section_04_recipe
+Udemyコース「ChatGPT APIを使ってチャットボットを作ろう！」のsection04用Repository（recipe）
